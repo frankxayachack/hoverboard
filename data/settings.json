@@ -1,9 +1,9 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Vientiane",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://gdgvientiane.org/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -113,20 +113,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Lao Art Arena, 5th floor",
+    "city": "Vientiane",
+    "short": "Vientiane, Laos",
+    "address": "Vientiane Capital",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 17.979072,
+      "longitude": 102.584784,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 17,
+      "longitude": 102
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Lao Art Arena is an event arena in Vientiane, which can fulfill the needs of the medium-scale event"
   },
   "mediaQueries": {
     "xs": {
